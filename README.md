@@ -62,3 +62,14 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniodroioz&label=Profile%20views&color=0e75b6&style=flat" alt="antoniodroioz" /> </p>
+
+<h3 align="left">Github stats:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniodroioz&show_icons=true&locale=en&layout=compact" alt="antoniodroioz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniodroioz&show_icons=true&locale=en" alt="antoniodroioz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniodroioz&" alt="antoniodroioz" /></p>
