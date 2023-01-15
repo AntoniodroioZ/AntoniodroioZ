@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente me encuentro trabajando en [SEIVOC](https://www.vocacionseivoc.unam.mx/)
 
-- 🌱 Me encuentro cursando **Ingeniería en computación (8vo semestre) en la Facultad de Estudios Superiores Aragón y un bootcamp en DevF**
+- 🌱 Actualmente **soy pasante de la carrera de Ingenieria en Computación en la FES Aragón**
 
 - 💻 Actualmente estoy desarrollando mi [sitio web](https://www.antoniodroios.com)
 
