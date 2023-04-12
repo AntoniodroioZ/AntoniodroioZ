@@ -10,7 +10,7 @@
 
 - ⚡ Mi enfoque es la programación pero también me interesa **realizar proyectos con Arduino y microcontroladores**
 
-- 📫 Contáctame **antoniohernandez49@gmail.com**
+- 📫 Contáctame **antoniohernandez49@aragon.unam.mx**
 
 <h3 align="left">Lenguajes de programación y otras tecnologías:</h3>
 <p align="left">
