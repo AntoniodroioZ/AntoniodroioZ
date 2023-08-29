@@ -1,15 +1,17 @@
 
 <h1 align="center">Hola 👋, soy Antonio</h1>
-<h3 align="center">Me encanta la programación, actualmente mi experiencia se enfoca en el desarrollo web Fullstack.</h3>
+<h3 align="center">Me encanta la programación, actualmente mi experiencia se enfoca en el desarrollo Backend, aunque tambien cuento con conocimientos en Frontend</h3>
 
-- 🔭 Actualmente me encuentro trabajando en [SEIVOC](https://www.vocacionseivoc.unam.mx/)
+- 🔭 El primer proyecto en el que participe fue en [SEIVOC](https://www.vocacionseivoc.unam.mx/)
 
-- 🌱 Actualmente **soy pasante de la carrera de Ingenieria en Computación en la FES Aragón**
+- 🌱 Me encuentro como **pasante de la carrera de Ingenieria en Computación en la FES Aragón**
 
-- 💻 Actualmente estoy desarrollando mi [sitio web](https://www.antoniodroios.com)
+- 💻 Entra a mi sitio: [sitio web](https://www.antoniodroios.com) (Aún en desarrollo)
 
 - ⚡ Mi enfoque es la programación pero también me interesa **realizar proyectos con Arduino y microcontroladores**
 
+- 🧑‍💻 Actualmente me encuentro trabajando en <a href="https://urdaten.com/" target="_blank" rel="noreferrer"> <img src="https://urdaten.com/_next/image?url=%2Fimages%2Flogo-urdaten.png&w=256&q=75" alt="urdaten" width="105" height="40"/> </a> 
+ 
 - 📫 Contáctame **antoniohernandez49@aragon.unam.mx**
 
 <h3 align="left">Lenguajes de programación y otras tecnologías:</h3>
@@ -28,6 +30,8 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <!-- arduino -->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<!-- golang-->
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="golang" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Frameworks y librerías:</h3>
 <p align="left"> 
@@ -59,8 +63,10 @@
 
 <h3 align="left">Bases de datos:</h3>
 <p align="left"> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="mysql" width="40" height="40"/> </a> 
 </p>
+
 
 
 
