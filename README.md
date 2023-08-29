@@ -10,7 +10,7 @@
 
 - ⚡ Mi enfoque es la programación pero también me interesa **realizar proyectos con Arduino y microcontroladores**
 
-- 🧑‍💻 Actualmente me encuentro trabajando en <a href="https://urdaten.com/" target="_blank" rel="noreferrer"> <img src="https://urdaten.com/_next/image?url=%2Fimages%2Flogo-urdaten.png&w=256&q=75" alt="urdaten" width="105" height="40"/> </a> 
+- 👨‍💻 Actualmente me encuentro trabajando en <a href="https://urdaten.com/" target="_blank" rel="noreferrer"> <img src="https://urdaten.com/_next/image?url=%2Fimages%2Flogo-urdaten.png&w=256&q=75" alt="urdaten" width="105" height="40"/> </a> 
  
 - 📫 Contáctame **antoniohernandez49@aragon.unam.mx**
 
